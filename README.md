@@ -1,3 +1,5 @@
+![Cat](https://github.com/RichardRivaldo/RichardRivaldo/blob/main/cats_blue_eyes_animals_pets_4288x2848.jpg)
+
 ### Intros
 😄 I am `Richard`, a passionate learner of data and machine learning undergraduate student of `Institut Teknologi Bandung`. I strive to keep learning new things and knowledges everyday and everywhere I go.
 
