@@ -13,7 +13,8 @@
 
 
 <p align="center">
-    <a href="https://github.com/RichardRivaldo" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-RichardRivaldo-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/RichardRivaldo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-RichardRivaldo-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://gitlab.informatika.org/richardrivaldo" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/-RichardRivaldo-181717?style=flat-square&logo=Gitlab&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/richard-rivaldo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Richard Rivaldo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/13268051/richard?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Richard-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
    <a href="mailto:richardrivaldo84@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-richardrivaldo84@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white")</a>
