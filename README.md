@@ -1,13 +1,11 @@
 ![Cat](https://github.com/RichardRivaldo/RichardRivaldo/blob/main/cats_blue_eyes_animals_pets_4288x2848.jpg)
 
 ### Intros
-😄 I am `Richard`, a passionate learner of data and machine learning undergraduate student of `Institut Teknologi Bandung`. I strive to keep learning new things and knowledges everyday and everywhere I go.
+😄 Hey there! I am `Richard`, a passionate learner of data and machine learning undergraduate student of `Institut Teknologi Bandung`. I strive to keep learning new things and knowledges everyday and everywhere I go.
 
-🌱 Currently, I am trying to fulfill my curiousity about `Data Science` and `Machine Learning` fields, including `Deep Learning`, `Computer Vision`, and `Natural Language Processing` with business-oriented mindsets.
+🔭 Always developing mindsets about how to be a better an engineer than yesterday!
 
-🔭 I am using GitHub as my portfolios, so you can see every projects and works I did here! My personal projects are usually in the scope of `Data Science` and `Machine Learning`.
-
-⚡ I have tried many programming environtments, but I usually used `Visual Studio Code`, `Spyder`, and `Google Colaboratory` or `Jupyter Notebook` as I think that they are very practical.
+⚡ Currently seeking to go deeper in Machine Learning and Artificial Intelligence, also searching for experiences in Software Engineering, especially around Backend or Server-Side Development and Cloud Engineering.
 
 ----------------------------------------------------------------------
 
@@ -31,17 +29,15 @@
 
 <p align="center">
     <a href="https://github.com/RichardRivaldo?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="https://github.com/RichardRivaldo?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
+    <a href="https://github.com/RichardRivaldo?tab=repositories&language=JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFA522?style=flat-square&logo=JavaScript&logoColor=white"></a>
+    <a href="https://github.com/RichardRivaldo?tab=repositories&language=Go" target="_blank"><img alt="Golang" src="https://img.shields.io/badge/-Go-1756AB?style=flat-square&logo=go&logoColor=white"></a>
     <a href="https://github.com/RichardRivaldo?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
     <a href="https://github.com/RichardRivaldo?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-FF4500?style=flat-square&logo=java&logoColor=white"></a>
     <a href="https://github.com/RichardRivaldo?tab=repositories&language=tensorflow" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/-Tensorflow-FFA500?style=flat-square&logo=tensorflow&logoColor=white"></a>
     <a href="https://github.com/RichardRivaldo?tab=repositories&language=mysql" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00BFFF?style=flat-square&logo=mysql&logoColor=white"></a>
-    <a href="https://github.com/RichardRivaldo?tab=repositories&language=numpy" target="_blank"><img alt="Numpy" src="https://img.shields.io/badge/-Numpy-0000FF?style=flat-square&logo=Numpy&logoColor=white"></a>
-    <a href="https://github.com/RichardRivaldo?tab=repositories&language=scikit-learn" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/-ScikitLearn-FF8C00?style=flat-square&logo=sklearn&logoColor=white"></a>
-    <a href="https://github.com/RichardRivaldo?tab=repositories&language=nltk" target="_blank"><img alt="NLTK" src="https://img.shields.io/badge/-NLTK-F08080?style=flat-square&logo=nltk&logoColor=white"></a>
-    <a href="https://github.com/RichardRivaldo?tab=repositories&language=matplotlib" target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-6A5ACD?style=flat-square&logo=Matplotlib&logoColor=white"></a>
-    <a href="https://github.com/RichardRivaldo?tab=repositories&language=seaborn" target="_blank"><img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-663399?style=flat-square&logo=Seaborn&logoColor=white"></a>
-    <a href="https://github.com/RichardRivaldo?tab=repositories&language=scipy" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/-SciPy-00FF00?style=flat-square&logo=SciPy&logoColor=white"></a>
+    <a href="https://github.com/RichardRivaldo?tab=repositories&language=postgresql" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1Ae312?style=flat-square&logo=PostgreSQL&logoColor=white"></a>
+    <a href="https://github.com/RichardRivaldo?tab=repositories&language=mongodb" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-1121ab?style=flat-square&logo=MongoDB&logoColor=white"></a>
+    <a href="https://github.com/RichardRivaldo?tab=repositories&language=figma" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/-Figma-0000FF?style=flat-square&logo=figma&logoColor=white"></a>
 </p>
 
 -----------------------------------------------------------------
